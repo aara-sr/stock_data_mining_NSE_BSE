@@ -1,0 +1,9 @@
+pandas
+requests
+beautifulsoup4
+selenium
+webdriver_manager
+tk
+tkcalendar
+yfinance
+python-dateutil

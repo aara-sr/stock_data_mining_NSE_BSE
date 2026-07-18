@@ -1,0 +1,154 @@
+2026-06-27 17:08:48,420 - INFO - Loaded 2615 stocks from NSE list
+2026-06-27 17:08:48,432 - INFO - Fetching data for RELIANCE (RELIANCE.NS) from 2022-06-01 to 2022-06-03
+2026-06-27 17:08:50,950 - INFO - Successfully fetched 2 records for RELIANCE
+2026-06-27 17:08:50,966 - INFO - Saved consolidated data for RELIANCE to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\RELIANCE\RELIANCE_consolidated.csv
+2026-06-27 17:08:50,992 - INFO - Fetching data for TCS (TCS.NS) from 2022-06-01 to 2022-06-03
+2026-06-27 17:08:53,204 - INFO - Successfully fetched 2 records for TCS
+2026-06-27 17:08:53,210 - INFO - Saved consolidated data for TCS to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\TCS\TCS_consolidated.csv
+2026-06-27 17:08:53,217 - INFO - Fetching data for HDFCBANK (HDFCBANK.NS) from 2022-06-01 to 2022-06-03
+2026-06-27 17:08:55,253 - INFO - Successfully fetched 2 records for HDFCBANK
+2026-06-27 17:08:55,258 - INFO - Saved consolidated data for HDFCBANK to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\HDFCBANK\HDFCBANK_consolidated.csv
+2026-06-27 17:08:55,265 - INFO - Fetching data for BHARTIARTL (BHARTIARTL.NS) from 2022-06-01 to 2022-06-03
+2026-06-27 17:08:57,553 - INFO - Successfully fetched 2 records for BHARTIARTL
+2026-06-27 17:08:57,559 - INFO - Saved consolidated data for BHARTIARTL to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\BHARTIARTL\BHARTIARTL_consolidated.csv
+2026-06-27 17:08:57,565 - INFO - Fetching data for ICICIBANK (ICICIBANK.NS) from 2022-06-01 to 2022-06-03
+2026-06-27 17:08:59,485 - INFO - Successfully fetched 2 records for ICICIBANK
+2026-06-27 17:08:59,491 - INFO - Saved consolidated data for ICICIBANK to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\ICICIBANK\ICICIBANK_consolidated.csv
+2026-06-27 17:08:59,491 - INFO - 
+========== NSE Data Fetch Summary ==========
+Total Stocks: 5
+Successfully Fetched: 5
+Failed: 0
+Success Rate: 100.0%
+===============================================
+
+2026-07-18 18:04:49,992 - INFO - Loaded 2615 stocks from NSE list
+2026-07-18 18:04:50,014 - INFO - Fetching data for RELIANCE (RELIANCE.NS) from 2025-07-01 to 2025-07-02
+2026-07-18 18:04:52,267 - INFO - Successfully fetched 1 records for RELIANCE
+2026-07-18 18:04:52,277 - INFO - Saved consolidated data for RELIANCE to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\RELIANCE\RELIANCE_consolidated.csv
+2026-07-18 18:04:52,283 - INFO - Fetching data for TCS (TCS.NS) from 2025-07-01 to 2025-07-02
+2026-07-18 18:04:54,101 - INFO - Successfully fetched 1 records for TCS
+2026-07-18 18:04:54,107 - INFO - Saved consolidated data for TCS to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\TCS\TCS_consolidated.csv
+2026-07-18 18:04:54,112 - INFO - Fetching data for HDFCBANK (HDFCBANK.NS) from 2025-07-01 to 2025-07-02
+2026-07-18 18:04:57,507 - INFO - Successfully fetched 1 records for HDFCBANK
+2026-07-18 18:04:57,512 - INFO - Saved consolidated data for HDFCBANK to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\HDFCBANK\HDFCBANK_consolidated.csv
+2026-07-18 18:04:57,518 - INFO - Fetching data for BHARTIARTL (BHARTIARTL.NS) from 2025-07-01 to 2025-07-02
+2026-07-18 18:04:59,316 - INFO - Successfully fetched 1 records for BHARTIARTL
+2026-07-18 18:04:59,322 - INFO - Saved consolidated data for BHARTIARTL to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\BHARTIARTL\BHARTIARTL_consolidated.csv
+2026-07-18 18:04:59,328 - INFO - Fetching data for ICICIBANK (ICICIBANK.NS) from 2025-07-01 to 2025-07-02
+2026-07-18 18:05:01,457 - INFO - Successfully fetched 1 records for ICICIBANK
+2026-07-18 18:05:01,462 - INFO - Saved consolidated data for ICICIBANK to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\ICICIBANK\ICICIBANK_consolidated.csv
+2026-07-18 18:05:01,462 - INFO - 
+========== NSE Data Fetch Summary ==========
+Total Stocks: 5
+Successfully Fetched: 5
+Failed: 0
+Success Rate: 100.0%
+===============================================
+
+2026-07-18 18:05:35,625 - INFO - Loaded 2615 stocks from NSE list
+2026-07-18 18:05:35,630 - INFO - Fetching data for RELIANCE (RELIANCE.NS) from 2025-07-02 to 2025-07-04
+2026-07-18 18:05:37,382 - INFO - Successfully fetched 2 records for RELIANCE
+2026-07-18 18:05:37,387 - INFO - Saved consolidated data for RELIANCE to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\RELIANCE\RELIANCE_consolidated.csv
+2026-07-18 18:05:37,390 - INFO - Fetching data for TCS (TCS.NS) from 2025-07-02 to 2025-07-04
+2026-07-18 18:05:39,064 - INFO - Successfully fetched 2 records for TCS
+2026-07-18 18:05:39,068 - INFO - Saved consolidated data for TCS to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\TCS\TCS_consolidated.csv
+2026-07-18 18:05:39,070 - INFO - Fetching data for HDFCBANK (HDFCBANK.NS) from 2025-07-02 to 2025-07-04
+2026-07-18 18:05:40,731 - INFO - Successfully fetched 2 records for HDFCBANK
+2026-07-18 18:05:40,735 - INFO - Saved consolidated data for HDFCBANK to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\HDFCBANK\HDFCBANK_consolidated.csv
+2026-07-18 18:05:40,737 - INFO - Fetching data for BHARTIARTL (BHARTIARTL.NS) from 2025-07-02 to 2025-07-04
+2026-07-18 18:05:42,462 - INFO - Successfully fetched 2 records for BHARTIARTL
+2026-07-18 18:05:42,466 - INFO - Saved consolidated data for BHARTIARTL to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\BHARTIARTL\BHARTIARTL_consolidated.csv
+2026-07-18 18:05:42,470 - INFO - Fetching data for ICICIBANK (ICICIBANK.NS) from 2025-07-02 to 2025-07-04
+2026-07-18 18:05:44,323 - INFO - Successfully fetched 2 records for ICICIBANK
+2026-07-18 18:05:44,328 - INFO - Saved consolidated data for ICICIBANK to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\ICICIBANK\ICICIBANK_consolidated.csv
+2026-07-18 18:05:44,329 - INFO - 
+========== NSE Data Fetch Summary ==========
+Total Stocks: 5
+Successfully Fetched: 5
+Failed: 0
+Success Rate: 100.0%
+===============================================
+
+2026-07-18 18:10:52,586 - INFO - Loaded 2615 stocks from NSE list
+2026-07-18 18:10:52,588 - INFO - Processing 1/2615: RELIANCE
+2026-07-18 18:10:52,588 - INFO - Fetching data for RELIANCE (RELIANCE.NS) from 2026-07-18 to 2026-07-19
+2026-07-18 18:10:55,074 - INFO - Successfully fetched 1 records for RELIANCE
+2026-07-18 18:10:55,090 - INFO - Saved consolidated data for RELIANCE to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\RELIANCE\RELIANCE_consolidated.csv
+2026-07-18 18:10:55,100 - INFO - Processing 2/2615: TCS
+2026-07-18 18:10:55,100 - INFO - Fetching data for TCS (TCS.NS) from 2026-07-18 to 2026-07-19
+2026-07-18 18:10:56,933 - INFO - Successfully fetched 1 records for TCS
+2026-07-18 18:10:56,938 - INFO - Saved consolidated data for TCS to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\TCS\TCS_consolidated.csv
+2026-07-18 18:10:56,945 - INFO - Processing 3/2615: HDFCBANK
+2026-07-18 18:10:56,945 - INFO - Fetching data for HDFCBANK (HDFCBANK.NS) from 2026-07-18 to 2026-07-19
+2026-07-18 18:10:59,276 - INFO - Successfully fetched 1 records for HDFCBANK
+2026-07-18 18:10:59,276 - INFO - Saved consolidated data for HDFCBANK to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\HDFCBANK\HDFCBANK_consolidated.csv
+2026-07-18 18:10:59,287 - INFO - Processing 4/2615: BHARTIARTL
+2026-07-18 18:10:59,288 - INFO - Fetching data for BHARTIARTL (BHARTIARTL.NS) from 2026-07-18 to 2026-07-19
+2026-07-18 18:11:01,341 - INFO - Successfully fetched 1 records for BHARTIARTL
+2026-07-18 18:11:01,345 - INFO - Saved consolidated data for BHARTIARTL to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\BHARTIARTL\BHARTIARTL_consolidated.csv
+2026-07-18 18:11:01,353 - INFO - Processing 5/2615: ICICIBANK
+2026-07-18 18:11:01,353 - INFO - Fetching data for ICICIBANK (ICICIBANK.NS) from 2026-07-18 to 2026-07-19
+2026-07-18 18:17:26,415 - INFO - Loaded 2615 stocks from NSE list
+2026-07-18 18:17:26,427 - INFO - Fetching data for RELIANCE (RELIANCE.NS) from 2025-07-02 to 2025-07-04
+2026-07-18 18:17:29,044 - INFO - Successfully fetched 2 records for RELIANCE
+2026-07-18 18:17:29,051 - INFO - Saved consolidated data for RELIANCE to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\RELIANCE\RELIANCE_consolidated.csv
+2026-07-18 18:17:29,057 - INFO - Fetching data for TCS (TCS.NS) from 2025-07-02 to 2025-07-04
+2026-07-18 18:17:31,108 - INFO - Successfully fetched 2 records for TCS
+2026-07-18 18:17:31,108 - INFO - Saved consolidated data for TCS to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\TCS\TCS_consolidated.csv
+2026-07-18 18:17:31,123 - INFO - Fetching data for HDFCBANK (HDFCBANK.NS) from 2025-07-02 to 2025-07-04
+2026-07-18 18:17:33,557 - INFO - Successfully fetched 2 records for HDFCBANK
+2026-07-18 18:17:33,557 - INFO - Saved consolidated data for HDFCBANK to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\HDFCBANK\HDFCBANK_consolidated.csv
+2026-07-18 18:17:33,571 - INFO - Fetching data for BHARTIARTL (BHARTIARTL.NS) from 2025-07-02 to 2025-07-04
+2026-07-18 18:17:36,202 - INFO - Successfully fetched 2 records for BHARTIARTL
+2026-07-18 18:17:36,207 - INFO - Saved consolidated data for BHARTIARTL to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\BHARTIARTL\BHARTIARTL_consolidated.csv
+2026-07-18 18:17:36,212 - INFO - Fetching data for ICICIBANK (ICICIBANK.NS) from 2025-07-02 to 2025-07-04
+2026-07-18 18:17:38,143 - INFO - Successfully fetched 2 records for ICICIBANK
+2026-07-18 18:17:38,143 - INFO - Saved consolidated data for ICICIBANK to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\ICICIBANK\ICICIBANK_consolidated.csv
+2026-07-18 18:17:38,143 - INFO - 
+========== NSE Data Fetch Summary ==========
+Total Stocks: 5
+Successfully Fetched: 5
+Failed: 0
+Success Rate: 100.0%
+===============================================
+
+2026-07-18 18:18:00,042 - INFO - Loaded 2615 stocks from NSE list
+2026-07-18 18:18:00,043 - INFO - Processing 1/2615: RELIANCE
+2026-07-18 18:18:00,044 - INFO - Fetching data for RELIANCE (RELIANCE.NS) from 2026-07-18 to 2026-07-19
+2026-07-18 18:18:02,145 - INFO - Successfully fetched 1 records for RELIANCE
+2026-07-18 18:18:02,145 - INFO - Saved consolidated data for RELIANCE to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\RELIANCE\RELIANCE_consolidated.csv
+2026-07-18 18:18:02,166 - INFO - Processing 2/2615: TCS
+2026-07-18 18:18:02,167 - INFO - Fetching data for TCS (TCS.NS) from 2026-07-18 to 2026-07-19
+2026-07-18 18:18:03,972 - INFO - Successfully fetched 1 records for TCS
+2026-07-18 18:18:03,977 - INFO - Saved consolidated data for TCS to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\TCS\TCS_consolidated.csv
+2026-07-18 18:18:03,984 - INFO - Processing 3/2615: HDFCBANK
+2026-07-18 18:18:03,984 - INFO - Fetching data for HDFCBANK (HDFCBANK.NS) from 2026-07-18 to 2026-07-19
+2026-07-18 18:18:05,636 - INFO - Successfully fetched 1 records for HDFCBANK
+2026-07-18 18:18:05,636 - INFO - Saved consolidated data for HDFCBANK to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\HDFCBANK\HDFCBANK_consolidated.csv
+2026-07-18 18:18:05,652 - INFO - Processing 4/2615: BHARTIARTL
+2026-07-18 18:18:05,653 - INFO - Fetching data for BHARTIARTL (BHARTIARTL.NS) from 2026-07-18 to 2026-07-19
+2026-07-18 18:18:07,503 - INFO - Successfully fetched 1 records for BHARTIARTL
+2026-07-18 18:18:07,507 - INFO - Saved consolidated data for BHARTIARTL to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\BHARTIARTL\BHARTIARTL_consolidated.csv
+2026-07-18 18:18:07,520 - INFO - Processing 5/2615: ICICIBANK
+2026-07-18 18:18:07,521 - INFO - Fetching data for ICICIBANK (ICICIBANK.NS) from 2026-07-18 to 2026-07-19
+2026-07-18 18:18:09,371 - INFO - Successfully fetched 1 records for ICICIBANK
+2026-07-18 18:18:09,376 - INFO - Saved consolidated data for ICICIBANK to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\ICICIBANK\ICICIBANK_consolidated.csv
+2026-07-18 18:18:09,383 - INFO - Processing 6/2615: INFY
+2026-07-18 18:18:09,384 - INFO - Fetching data for INFY (INFY.NS) from 2026-07-18 to 2026-07-19
+2026-07-18 18:18:11,341 - INFO - Successfully fetched 1 records for INFY
+2026-07-18 18:18:11,357 - INFO - Saved consolidated data for INFY to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\INFY\INFY_consolidated.csv
+2026-07-18 18:18:11,367 - INFO - Processing 7/2615: SBIN
+2026-07-18 18:18:11,367 - INFO - Fetching data for SBIN (SBIN.NS) from 2026-07-18 to 2026-07-19
+2026-07-18 18:18:13,256 - INFO - Successfully fetched 1 records for SBIN
+2026-07-18 18:18:13,264 - INFO - Saved consolidated data for SBIN to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\SBIN\SBIN_consolidated.csv
+2026-07-18 18:18:13,271 - INFO - Processing 8/2615: LICI
+2026-07-18 18:18:13,271 - INFO - Fetching data for LICI (LICI.NS) from 2026-07-18 to 2026-07-19
+2026-07-18 18:18:15,294 - INFO - Successfully fetched 1 records for LICI
+2026-07-18 18:18:15,301 - INFO - Saved consolidated data for LICI to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\LICI\LICI_consolidated.csv
+2026-07-18 18:18:15,315 - INFO - Processing 9/2615: HINDUNILVR
+2026-07-18 18:18:15,315 - INFO - Fetching data for HINDUNILVR (HINDUNILVR.NS) from 2026-07-18 to 2026-07-19
+2026-07-18 18:18:17,393 - INFO - Successfully fetched 1 records for HINDUNILVR
+2026-07-18 18:18:17,399 - INFO - Saved consolidated data for HINDUNILVR to C:\Users\Dell\Desktop\DataMining_NSE_BSE\NSE\HINDUNILVR\HINDUNILVR_consolidated.csv
+2026-07-18 18:18:17,407 - INFO - Processing 10/2615: ITC
+2026-07-18 18:18:17,407 - INFO - Fetching data for ITC (ITC.NS) from 2026-07-18 to 2026-07-19
